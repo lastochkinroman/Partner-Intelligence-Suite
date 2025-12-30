@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.env.prod
+.vscode/
+
+# Docker
+data/
+logs/
+*.log
+*.pid
+*.seed
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Database
+*.db
+*.sqlite3
+
+# Virtual environments
+venv/
+ENV/
+
+# Test files
+.pytest_cache/
+.coverage
+
+# Document generation temp files
+*.tmp
+temp/
+
+# Secrets
+*.key
+*.pem
+*.crt
