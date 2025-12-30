@@ -20,14 +20,14 @@ Docker Compose
 ├── Python Bot (основное приложение)
 ├── phpMyAdmin (администрирование БД)
 └── Nginx (опционально)
-text
+
 
 
 ## 📋 Требования
 
 - Docker & Docker Compose
 - 4GB+ RAM
-- Python 3.11+ (для разработки)
+- Python 3.11+
 
 ## ⚙️ Быстрый старт
 
