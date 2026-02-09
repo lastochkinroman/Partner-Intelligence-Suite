@@ -59,7 +59,7 @@ services:
       - ./logs:/app/logs
       - ./data/documents:/app/documents
     ports:
-      - "8000:8000"  # Для возможного веб-интерфейса
+      - "8000:8000" 
     networks:
       - bi_network
     command: python -m app.bot
